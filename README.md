@@ -48,7 +48,7 @@ Backend-leaning fullstack developer. I build tools and automate whatever I can.
 
 ### 🚀 Currently building
 
-- **[gpsystem](https://github.com/czibulapetertamas/gpsystem)** - modular Go backend toolkit: a reusable service-chassis + scaffolding CLI, TypeSpec → OpenAPI → oapi-codegen. *(going public soon)*
+- **[gpsystem](https://github.com/gp-system)** - modular Go backend toolkit: a reusable service-chassis + scaffolding CLI, TypeSpec → OpenAPI → oapi-codegen. *(going public soon)*
 - **megacraft** - self-hosted Minecraft hub with a browser-based skin editor, Next.js + Go, fully self-hosted infra (self-written Docker registry, WireGuard, Cloudflare).
 - **mtasa multimode** - custom MTA:SA runtime hosting multiple game modes on a single server instance.
 
